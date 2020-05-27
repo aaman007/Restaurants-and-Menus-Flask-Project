@@ -1,1 +1,1 @@
-This is a simple Flask web application that can use CRUD operation on Restaurants and Restaurant Menus
+This is a simple Flask Project
